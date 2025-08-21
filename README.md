@@ -1,2 +1,2 @@
-### Practicing GitHub
+#### Practicing Git Command
 
